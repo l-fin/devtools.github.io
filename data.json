@@ -1,0 +1,372 @@
+[
+  {
+    "name": "개발도구",
+    "tools": [
+      {
+        "title": "커뮤니케이션",
+        "items": [
+          {
+            "name": "Slack",
+            "url": [
+              {
+                "href": "https://slack.com/intl/ko-kr/",
+                "view": "https://slack.com"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "Confluence",
+            "url": [
+              {
+                "href": "https://lfincorp.atlassian.net/wiki/home",
+                "view": "https://lfincorp.atlassian.net/wiki/home"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "Google Meet",
+            "url": [
+              {
+                "href": "https://meet.google.com/landing",
+                "view": "https://meet.google.com/landing"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "프로젝트, 이슈관리",
+        "items": [
+          {
+            "name": "Jira",
+            "url": [
+              {
+                "href": "https://lfincorp.atlassian.net/jira/your-work",
+                "view": "https://lfincorp.atlassian.net/jira/your-work"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "기획, 디자인, 프로토타이핑",
+        "items": [
+          {
+            "name": "Figma",
+            "url": [
+              {
+                "href": "https://www.figma.com",
+                "view": "https://www.figma.com"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "설계",
+        "items": [
+          {
+            "name": "Confluence",
+            "url": [
+              {
+                "href": "https://lfincorp.atlassian.net/wiki/home",
+                "view": "https://lfincorp.atlassian.net/wiki/home"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "Postman",
+            "url": [
+              {
+                "href": "https://lfincorp.postman.co/home",
+                "view": "https://lfincorp.postman.co/home"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "Google Sheet",
+            "url": [
+              {
+                "href": "https://docs.google.com/spreadsheets",
+                "view": "https://docs.google.com/spreadsheets"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "dbdiagram.io",
+            "url": [
+              {
+                "href": "https://dbdiagram.io/home",
+                "view": "https://dbdiagram.io/home"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "소스관리",
+        "items": [
+          {
+            "name": "GitHub (default)",
+            "url": [
+              {
+                "href": "https://github.com/l-fin",
+                "view": "https://github.com/l-fin"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "GitLab",
+            "url": [
+              {
+                "href": "https://gitlab.com",
+                "view": "https://gitlab.com"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "빌드, 배포",
+        "items": [
+          {
+            "name": "Jenkins",
+            "url": [
+              {
+                "href": "http://ci-new.lfin.kr",
+                "view": "http://ci-new.lfin.kr"
+              }
+            ],
+            "login": "ARM"
+          }
+        ]
+      },
+      {
+        "title": "앱 배포",
+        "items": [
+          {
+            "name": "Zealot",
+            "url": [
+              {
+                "href": "https://app.lfin.kr",
+                "view": "https://app.lfin.kr"
+              }
+            ],
+            "login": "ARM"
+          }
+        ]
+      },
+      {
+        "title": "계정, 권한 통합",
+        "items": [
+          {
+            "name": "Fusionauth",
+            "url": [
+              {
+                "href": "http://arm.lfin.kr",
+                "view": "http://arm.lfin.kr"
+              }
+            ],
+            "login": "ARM"
+          }
+        ]
+      },
+      {
+        "title": "코드분석, 취약점 점검",
+        "items": [
+          {
+            "name": "SonarQube",
+            "url": [
+              {
+                "href": "https://codeq.lfin.kr",
+                "view": "https://codeq.lfin.kr"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "deepsource",
+            "url": [
+              {
+                "href": "https://deepsource.io",
+                "view": "https://deepsource.io"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "도커 레지스트리",
+        "items": [
+          {
+            "name": "cr.lfin.kr",
+            "url": [
+              {
+                "href": "https://cr.lfin.kr",
+                "view": "https://cr.lfin.kr"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "cra.lfin.kr (gui)",
+            "url": [
+              {
+                "href": "https://cra.lfin.kr",
+                "view": "https://cra.lfin.kr"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "통계, BI",
+        "items": [
+          {
+            "name": "Metabase",
+            "url": [
+              {
+                "href": "https://bi.lfin.kr",
+                "view": "https://bi.lfin.kr"
+              }
+            ],
+            "login": "ARM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ASP 도구",
+    "tools": [
+      {
+        "title": "SMS, 카카오알림톡",
+        "items": [
+          {
+            "name": "Naver cloud SENS",
+            "url": [
+              {
+                "href": "https://www.ncloud.com/product/applicationService/sens",
+                "view": "https://www.ncloud.com/product/applicationService/sens"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "이메일 전송",
+        "items": [
+          {
+            "name": "Sendgrid",
+            "url": [
+              {
+                "href": "https://sendgrid.com",
+                "view": "https://sendgrid.com"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "앱, 웹 푸시",
+        "items": [
+          {
+            "name": "OneSignal",
+            "url": [
+              {
+                "href": "https://onesignal.com",
+                "view": "https://onesignal.com"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "앱, 웹 사용자 분석",
+        "items": [
+          {
+            "name": "Google Analytics",
+            "url": [
+              {
+                "href": "https://analytics.google.com/analytics/web/#/p421837900/reports/intelligenthome",
+                "view": "https://analytics.google.com"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "Firebase",
+            "url": [
+              {
+                "href": "https://firebase.google.com",
+                "view": "https://firebase.google.com"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "Sentry",
+            "url": [
+              {
+                "href": "https://sentry.lfin.kr",
+                "view": "https://sentry.lfin.kr"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      },
+      {
+        "title": "모니터링",
+        "items": [
+          {
+            "name": "aws CloudWatch",
+            "url": [
+              {
+                "href": "https://aws.amazon.com/ko",
+                "view": "https://aws.amazon.com"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "NewRelic",
+            "url": [
+              {
+                "href": "https://newrelic.com/kr",
+                "view": "https://newrelic.com"
+              }
+            ],
+            "login": ""
+          },
+          {
+            "name": "Monitis",
+            "url": [
+              {
+                "href": "",
+                "view": "monitis"
+              }
+            ],
+            "login": ""
+          }
+        ]
+      }
+    ]
+  }
+]
